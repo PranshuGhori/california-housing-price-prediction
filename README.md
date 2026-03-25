@@ -31,4 +31,3 @@ source .venv/bin/activate  # mac/linux
 # .venv\Scripts\activate   # windows
 
 pip install -r requirements.txt
-#
